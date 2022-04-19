@@ -2,7 +2,7 @@
 Replication codes for "Productivity slowdown: reducing the measure of our ignorance" by Timo Boppart and Huiyu Li
 Codes written by Mitchell Ochse and Fabian Rivera-Reyes
 
-Instructions: Download the replication folder, open the program "Boppart_Li_2021_replication_clean.py" 
+Instructions: Download the replication folder, open the program "Boppart_Li_2021_replication_final.py" 
 on the Spyder (Anaconda3) application and run the entire program.
 
 Raw Data Files used:
